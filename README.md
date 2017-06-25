@@ -3,6 +3,7 @@
 #### Demos
 
 |Name|Demo|Source|
+|---|---|---|
 |Vaadin Board|[Demo](https://demo.vaadin.com/vaadin-board/)|[Source](https://github.com/vaadin/vaadin-board-demo)|
 |Moji Brag|[Demo](https://mojibrag.firebaseapp.com/)|[Source](https://github.com/notwaldorf/mojibrag)|
 |Blocks Dashboard|[Demo](http://www.prepbootstrap.com/bootstrap-theme/single-page-admin/preview/index.html)|None|
@@ -34,6 +35,7 @@ which shows you how to install the key.
 #### Themes and Colors
 [Reference](http://paletton.com/)
 |Base|Complementary|Palette|Source|
+|---|---|---|---|
 |#0079FF|#FF9A00|[Palette](http://paletton.com/#uid=23B0u0k++++qKZWAF+V+VAFZWqK)|Apple osX, iOS, Valo?|
 |#00B4F0|#FF8300|[Palette](http://paletton.com/#uid=23p0u0k++VZrFZTEh+V+VyeZZpQ)|Vaadin (Theme-A) primary ("--water")|
 |#33383A|#5C5751|[Palette](http://paletton.com/#uid=23q0u0k42bB2+n-3-hC5X4Df15m)|Vaadin (Theme-A) secondary ("--charcoal")|

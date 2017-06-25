@@ -351,7 +351,12 @@
       }
 
       #githublogo {
+				/** /
         fill: #8b8e91;
+				/**/
+				--iron-icon {
+					--iron-icon-fill-color: white;
+				};
         --iron-icon-width: 24px;
         --iron-icon-height: 24px;
         padding-right: 10px;
@@ -418,7 +423,9 @@
 		<div id="sideMenu" on-transitionend="_sideMenuTransitionend">
 			<div id="menucontent">
 				<div id="brand-menu" class="gradient">
+					<!---- >
 					<iron-icon id="githublogo" icon="vaadin:coins"></iron-icon>
+					<!---->
 					<span>Swap</span>
 				</div>
 				<div id="logoandname">
